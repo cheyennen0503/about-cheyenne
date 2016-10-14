@@ -1,4 +1,6 @@
 Cheyenne Nicaisse
+Student
+I am a junior at HSTAT. I love to listen to music, it is one of my many passions. My hobby is dance which I take very seriously. I go to dance 4 days a week for a total of 13 hours! My dream college is Princeton and I hope to get a full scholarship. 
 cheyennen0503@hstat.org
 pd 1. SEP
 pd 2. APUSH
