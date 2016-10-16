@@ -19,3 +19,12 @@ _I am a junior at HSTAT. I **love** to listen to music, it is one of my many pas
 6. Gym
 7. Earth Science
 8. Spanish
+
+* Foods I like
+    * egetables
+    * chicken bun
+    * noodles
+    * tortilla chips
+    * french fries
+    * sandwitches
+    * ice cream
