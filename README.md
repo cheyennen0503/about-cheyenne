@@ -11,18 +11,11 @@ _I am a junior at HSTAT. I **love** to listen to music, it is one of my many pas
 
 ####Schedule
 
-pd 1. SEP
-
-pd 2. APUSH
-
-pd 3. Honors English
-
-pd 4. Algebra 2
-
-pd 5. Lunch
-
-pd 6. Gym
-
-pd 7. Earth Science
-
-pd 8. Spanish 5
+1. SEP
+2. APUSH
+3. Honors English
+4. Algebra 2
+5. Lunch
+6. Gym
+7. Earth Science
+8. Spanish
