@@ -9,6 +9,7 @@ _I am a junior at HSTAT. I **love** to listen to music, it is one of my many pas
 
 ###[my email] (cheyennen0503@hstat.org)
 
+
 ####Schedule
 
 1. SEP
@@ -20,8 +21,9 @@ _I am a junior at HSTAT. I **love** to listen to music, it is one of my many pas
 7. Earth Science
 8. Spanish
 
+
 * Foods I like
-    * egetables
+    * vegetables
     * chicken bun
     * noodles
     * tortilla chips
